@@ -24,6 +24,7 @@
 ### 🖇 VPS [Deployment](https://thanos-organization.gitbook.io/alice-music)
 Check out the [Documentation](https://thanos-organization.gitbook.io/alice-music/getting-started/quickstart) for detailed instructions on deploying Alice Music Bot on a VPS.
 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/decentboyy/occookieupdate"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### 📺 How to make cookies in phone
 just click on thumbnail to watch the tutorial
